@@ -1,12 +1,12 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20451389.svg)](https://doi.org/10.5281/zenodo.20451389)
 
+[![ScholarSphere](https://img.shields.io/badge/ScholarSphere-blue)](https://doi.org/10.26207/b6x8-zq94)
+
 Bharathan, et al., 2026. JCB
 
-The .csv files used to generate the plots are in the "Excel-files-for-plots" folder.
+The .csv files used to generate plots are in `csv/`.
 
-In a terminal, resurrect the environment from the FIBSEM-analysis.yml file which is located in the "jupyter-notebooks" folder.
-Activate the "FIBSEM-analysis" environment.
-
+Activate `environment.yml` 
 
 To measure MtM distances and generate plots for desmosomes in A431 cells:
 1. Open the jupyter notebook below and run the cells to get measurements of vtks from the folder specified in the jupyter notebook.

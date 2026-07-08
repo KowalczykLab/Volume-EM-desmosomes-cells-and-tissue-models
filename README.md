@@ -1,41 +1,33 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20451389.svg)](https://doi.org/10.5281/zenodo.20451389)
 
+[![DOI:10.64898/2026.01.27.702185](https://img.shields.io/badge/DOI-10.64898/2026.01.27.702185-B31B1B.svg)](https://doi.org/10.64898/2026.01.27.702185)
+
 [![ScholarSphere](https://img.shields.io/badge/ScholarSphere-blue)](https://doi.org/10.26207/b6x8-zq94)
 
 Bharathan, et al., 2026. JCB
 
-The .csv files used to generate plots are in `csv/`.
 
-Activate `environment.yml` 
+- The .csv files used to generate plots are in `csv/`.
+- See [![ScholarSphere](https://img.shields.io/badge/ScholarSphere-blue)](https://doi.org/10.26207/b6x8-zq94) for the .vtk files.
+- Activate `environment.yml` prior to running any Jupyter notebooks.
 
-To measure MtM distances and generate plots for desmosomes in A431 cells:
-1. Open the jupyter notebook below and run the cells to get measurements of vtks from the folder specified in the jupyter notebook.
-	20260503-MtM-vtk-plots-A431.ipynb
-	- Generates MtM measurements of desmosomes in A431 cells.
+## Desmosome membrane-to-membrane (MtM) distances
+### A431 cells
+Use `20260503-MtM-vtk-plots-A431.ipynb` to get measurements of .vtk files and save as .xlsx files.
 
-2. Open the jupyter notebook below and run the cells to generate graphs from the corresponding .xlsx files specified in the jupyter notebook. The .xlsx files are located in the folder corresponding to the Figure #.
-	20260506-MtM-median-plots-A431-S1.ipynb
-	- Generates plots using the MtM distance.
+### S1 HMEC cells
+Use `20260503-MtM-vtk-plots-S1.ipynb` to get measurements of .vtk files and save as .xlsx files.
 
+## Plotting for A431 and S1 HMEC cells
+Use `20260506-MtM-median-plots-A431-S1.ipynb` to generate plots.
 
-To measure MtM distances and generate plots for desmosomes in S1 HMEC cells:
-1. Open the jupyter notebook below and run the cells to get measurements of vtks from the folder specified in the jupyter notebook.
-	20260503-MtM-vtk-plots-S1.ipynb
-	- Generates MtM measurements of desmosomes in S1 HMEC cells.
-
-2. Open the jupyter notebook below and run the cells to generate graphs from the corresponding .xlsx files specified in the jupyter notebook. The .xlsx files are located in the folder corresponding to the Figure #.
-	20260506-MtM-median-plots-A431-S1.ipynb
-	- Generates plots using the MtM distance.
+### Airway epithelial cells
+Use	`20251214-MtM-median-plots-Airway.ipynb`
 
 
-To measure MtM distances and generate plots for desmosomes in airway epithelial cells:
-1. Open the jupyter notebook below and run the cells to get measurements of vtks from the folder specified in the jupyter notebook, as well as to generate plots of MtM distance by cell-cell interaction type.
-	20251214-MtM-median-plots-Airway.ipynb
+## Generate other plots
 
-
-To generate plots in Fig.4d, S1d, S1e, and S1f:
-	20260503-seaborn-HolesvsODP-JCB.ipynb
-
-
-To generate plots in Fig.2c, 3c,4c, 5e, S1a, S1b, S2a, S3c, and S3d:
-	20260503-seaborn-FIBSEM-Spearman-JCB.ipynb
+| Notebook                                   | Figures                                 |
+|--------------------------------------------|-----------------------------------------|
+| 20260503-seaborn-HolesvsODP-JCB.ipynb      | 4d, S1d, S1e, S1f                       |
+| 20260503-seaborn-FIBSEM-Spearman-JCB.ipynb | 2c, 3c, 4c, 5e, S1a, S1b, S2a, S3c, S3d |

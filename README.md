@@ -1,6 +1,8 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20451389.svg)](https://doi.org/10.5281/zenodo.20451389)
+
 Bharathan, et al., 2026. JCB
 
-This information pertains to the plots in the manuscript.  The .xlsx files used to generate the plots are in the "Excel-files-for-plots" folder.
+The .csv files used to generate the plots are in the "Excel-files-for-plots" folder.
 
 In a terminal, resurrect the environment from the FIBSEM-analysis.yml file which is located in the "jupyter-notebooks" folder.
 Activate the "FIBSEM-analysis" environment.

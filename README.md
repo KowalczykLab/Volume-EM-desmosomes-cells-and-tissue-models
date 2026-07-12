@@ -20,12 +20,12 @@ Use `20260503-MtM-vtk-plots-A431.ipynb` to get measurements of .vtk files and sa
 Use `20260503-MtM-vtk-plots-S1.ipynb` to get measurements of .vtk files and save as .xlsx files.
 
 ### Airway epithelial cells
-Use	`20251214-MtM-median-plots-Airway.ipynb`
+Use	`20251214-MtM-median-plots-Airway.ipynb` to get measurements of .vtk files and save as .xlsx files.
 
 ## Plotting MtM distances
-Use `20260506-MtM-median-plots-A431-S1.ipynb` to generate plots for A431 and S1 HMEC cells.
+Use `20260506-MtM-median-plots-A431-S1.ipynb` to generate plots for desmosome MtM distances in A431 and S1 HMEC cells.
 
-`20251214-MtM-median-plots-Airway.ipynb` also generates plots for the airway epithelial cells.
+Use `20251214-MtM-median-plots-Airway.ipynb` to generate plots for desmosome MtM distances in airway epithelial cells.
 
 ---
 

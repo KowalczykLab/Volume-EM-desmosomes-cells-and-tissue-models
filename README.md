@@ -4,7 +4,7 @@
 
 Bharathan, et al., 2026. JCB
 
-- Access the preprint at [![DOI:10.64898/2026.01.27.702185](https://img.shields.io/badge/DOI-10.64898/2026.01.27.702185-B31B1B.svg)](https://doi.org/10.64898/2026.01.27.702185)
+- Access the preprint at [![DOI:10.64898/2026.01.27.702185](https://img.shields.io/badge/DOI-10.64898/2026.01.27.702185-B31B1B.svg)](https://doi.org/10.64898/2026.01.27.702185).
 - The .csv files used to generate plots are in `csv/`.
 - See [![ScholarSphere](https://img.shields.io/badge/ScholarSphere-blue)](https://doi.org/10.26207/b6x8-zq94) for the .vtk files.
 - Activate `environment.yml` prior to running any Jupyter notebooks.

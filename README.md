@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20217589.svg)](https://doi.org/10.5281/zenodo.20217589)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20217588.svg)](https://doi.org/10.5281/zenodo.20217588)
 
 [![ScholarSphere](https://img.shields.io/badge/ScholarSphere-blue)](https://doi.org/10.26207/b6x8-zq94)
 
